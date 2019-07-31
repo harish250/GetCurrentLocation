@@ -28,7 +28,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     String myname="harish";
-
+    String myname2="harish2";
     LocationManager locationManager;
 
     LocationListener locationListener;
